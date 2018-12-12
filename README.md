@@ -1,0 +1,2 @@
+# GomuluIsletimSistemler
+GomuluIsletimSistemler
