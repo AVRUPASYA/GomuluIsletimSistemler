@@ -31,10 +31,10 @@ Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SA
 </p>
 Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
 Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
-<p>
+
 <img align="left" width="450" height="400" src="http://4gp.me/bbtc/1546125697669.jpg" >
  <img align="right" width="450" height="400" src="http://4gp.me/bbtc/1546125760168.jpg">
-</p>
+
 <br>
 <br>
 Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin web üzerinden Database ortamına aktarılıp üçer saniye aralıklarla otomatik güncelleme yapılıp sayfaya düstüğü aşamadır. <html> tagları içinde yazılmıştır sayfa yapısı! 
