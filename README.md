@@ -4,12 +4,14 @@
 <br> 
 Akıllı Ev Sistemi, nano teknoloji ev otomasyonu ile geliştirilen bir kontrol sistemidir. Bu sistem, evlerde hem büyük bir konfor, hem de güvenlik sağlar. Sistemlerin kontrolü, ayrı ayrı kumandalar yerine, görsel bir paneli bulunan Web  aracılığıyla yapılmıştır.Veritabanı kullanılarak raspberry pi ile proje gerçekleşimi sağlanmıştır.Proje kontrol yapısını dünyanın her yerine ulaştırmada kolaylık sağlamıştır
 <br>
+ <br>
+ <br>
 <p>
 <img align="center" width="500" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuUW1DTZkOg6C6WhlTGwkIKYflG3_NSda12g1s51z8pETksD2">
 </p>
 
 <h2>Kullanılan teknolojiler</h2><br>
-Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Yorumlanan ve dinamik bir dil olan Python, esas olarak nesne tabanlı programlama yaklaşımlarını ve belli bir oranda da fonksiyonel programlamayı desteklemektedir.
+Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Yorumlanan ve dinamik bir dil olan Python, esas olarak nesne tabanlı programlama yaklaşımlarını ve belli bir oranda da fonksiyonel programlamayı desteklemektedir.Flask python ile çalışabileceğiniz çok güçlü ve bir o kadarda kolay öğrenilen minimal bir framework. O kadar kolayki python bilginiz olmasa bile bu framework ile çalışırken öğrenebilirsiniz. Flask küçük çaplı projeler için size hem hız kazandırır hemde gereksiz konfigrasyonlar ile boğuşmanızı önler.
 &nbsp;&nbsp;&nbsp;&nbsp;<p>
 <img align="left" width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_04uVSv9oZdMmC4VuUwvrDb3bvDOYlKONjri27PNQ4Y416q0Gg" >
  <img align="center" width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLNB1g8cK7wS1fI0b9t-yr8qQxpaMreoPzbA_vuzVL6koQfEjkg">
