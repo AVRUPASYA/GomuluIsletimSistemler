@@ -32,8 +32,8 @@ Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SA
 Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
 Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
 <p>
-<img align="left" width="400" height="250" src="http://4gp.me/bbtc/1546125697669.jpg" >
- <img align="center" width="350" height="250" src="http://4gp.me/bbtc/1546125760168.jpg">
+<img align="left" width="500" height="400" src="http://4gp.me/bbtc/1546125697669.jpg" >
+ <img align="right" width="400" height="300" src="http://4gp.me/bbtc/1546125760168.jpg">
 </p>
 
 
