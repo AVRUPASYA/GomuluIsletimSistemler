@@ -46,4 +46,7 @@ Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin we
 <br>
  <br>
  <br>
-Phyton bilinmediği için çok sıkıntı yaşandı. Veritabanıba bağlama kısmı ve framework kurulma aşaması oldukça zorlamıştır!
+Butonlardan gelen bilgiler flaskaap.py dosyasında routeedilir ilgli link'den database güncellenir.
+ <br>
+ <br>
+ 
