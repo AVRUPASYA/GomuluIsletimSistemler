@@ -10,9 +10,9 @@ Akıllı Ev Sistemi, nano teknoloji ev otomasyonu ile geliştirilen bir kontrol 
 
 <h2>Kullanılan teknolojiler</h2><br>
 Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir. Yorumlanan ve dinamik bir dil olan Python, esas olarak nesne tabanlı programlama yaklaşımlarını ve belli bir oranda da fonksiyonel programlamayı desteklemektedir.
-<p>
-<img align="left" width="420" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_04uVSv9oZdMmC4VuUwvrDb3bvDOYlKONjri27PNQ4Y416q0Gg" >
- <img align="center" width="500" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLNB1g8cK7wS1fI0b9t-yr8qQxpaMreoPzbA_vuzVL6koQfEjkg">
+&nbsp;&nbsp;&nbsp;&nbsp;<p>
+<img align="left" width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN_04uVSv9oZdMmC4VuUwvrDb3bvDOYlKONjri27PNQ4Y416q0Gg" >
+ <img align="center" width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLNB1g8cK7wS1fI0b9t-yr8qQxpaMreoPzbA_vuzVL6koQfEjkg">
 </p>
 <br>
 <br>
