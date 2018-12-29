@@ -38,6 +38,8 @@ Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme duru
 <br>
 <br>
 Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin web üzerinden Database ortamına aktarılıp üçer saniye aralıklarla otomatik güncelleme yapılıp sayfaya düstüğü aşamadır. <html> tagları içinde yazılmıştır sayfa yapısı! 
+ <br>
+<br>
 <p>
 <img align="left" width="500" height="400" src="http://4gp.me/bbtc/1546126302788.jpg" >
 </p>
