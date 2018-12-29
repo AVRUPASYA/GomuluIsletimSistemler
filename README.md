@@ -26,9 +26,8 @@ Sistemde butonlara basarak veritabanda bulunan sistemdeki yapılar açma-kapanma
 Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SAYFALARIMIZ yüklenicektir.
 <br>
 <br><p>
-<img align="left" width="350" height="300" src="http://m.YollaYap.com/bbtc/1546124885172.jp" >
- <img align="center" width="350" height="300" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
+<img align="left" width="300" height="250" src="http://m.YollaYap.com/bbtc/1546124885172.jp" >
+ <img align="center" width="300" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
 </p>
-<img align="center" width="350" height="300" src="g"
-<h2>Projenin uygulama aşamaları</h2>
+
 Phyton bilinmediği için çok sıkıntı yaşandı. Veritabanıba bağlama kısmı ve framework kurulma aşaması oldukça zorlamıştır!
