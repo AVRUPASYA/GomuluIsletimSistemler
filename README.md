@@ -33,7 +33,7 @@ Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
 Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
 <p>
 <img align="left" width="500" height="400" src="http://4gp.me/bbtc/1546125697669.jpg" >
- <img align="right" width="300" height="400" src="http://4gp.me/bbtc/1546125760168.jpg">
+ <img align="right" width="400" height="400" src="http://4gp.me/bbtc/1546125760168.jpg">
 </p>
 <br>
 <br>
@@ -43,5 +43,7 @@ Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin we
 <p>
 <img align="left" width="500" height="400" src="http://4gp.me/bbtc/1546126302788.jpg" >
 </p>
-
+<br>
+ <br>
+ <br>
 Phyton bilinmediği için çok sıkıntı yaşandı. Veritabanıba bağlama kısmı ve framework kurulma aşaması oldukça zorlamıştır!
