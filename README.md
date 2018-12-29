@@ -23,6 +23,7 @@ Veritabanı olarak SQLite, dünyada en çok dağıtılan ve tavsiye edilen kayna
 
 <h2>Sistem bileşen diyagramı</h2><br>
 Sistemde butonlara basarak veritabanda bulunan sistemdeki yapılar açma-kapanma yöntemi ile veritabanında güncellenerek Phytonun flask web uygulaması ile açma  kapama işlemi veritabanına aktarılmaktadır.
-<img align="center" width="500" height="300" src="www.4GP.ME/bbtc/1546124554133.jpg"
+Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SAYFALARIMIZ yüklenicektir.
+<img align="center" width="500" height="300" src="http://m.YollaYap.com/bbtc/1546124885172.jpg"
 <h2>Projenin uygulama aşamaları</h2>
 Phyton bilinmediği için çok sıkıntı yaşandı. Veritabanıba bağlama kısmı ve framework kurulma aşaması oldukça zorlamıştır!
