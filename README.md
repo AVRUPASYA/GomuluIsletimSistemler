@@ -21,16 +21,16 @@ Flask python ile çalışabileceğiniz çok güçlü ve bir o kadarda kolay öğ
 <br>
 Veritabanı olarak SQLite, dünyada en çok dağıtılan ve tavsiye edilen kaynak kodları halka açık, tamamen C/C++ programlama dilleriyle geliştirilmiş sunucu yazılımı ve yapılandırma gereksinimi olmayan, işlemsel ve ilişkisel bir SQL veritabanı ile buton işlemleri gerçekleştirilmiştir.
 
-<h2>Sistem bileşen diyagramı</h2><br>
+<h2>Sistem bileşen diyagramı</h2><br><br>
 Sistemde butonlara basarak veritabanda bulunan sistemdeki yapılar açma-kapanma yöntemi ile veritabanında güncellenerek Phytonun flask web uygulaması ile açma  kapama işlemi veritabanına aktarılmaktadır.
 Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SAYFALARIMIZ yüklenicektir.
-<br>
+<br><br>
 <br><p>
 <img align="left" width="300" height="250" src="http://4gp.me/bbtc/1546124885172.jpg" >
  <img align="center" width="500" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
 </p>
-Aynı zamanda kod kısmımızda sag taraftadır!<br>
-Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!
+Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
+Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
 <p>
 <img align="left" width="400" height="250" src="http://4gp.me/bbtc/1546125697669.jpg" >
  <img align="center" width="350" height="250" src="http://4gp.me/bbtc/1546125760168.jpg">
