@@ -27,7 +27,15 @@ Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SA
 <br>
 <br><p>
 <img align="left" width="300" height="250" src="http://4gp.me/bbtc/1546124885172.jpg" >
- <img align="center" width="300" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
+ <img align="center" width="500" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
+</p>
+Aynı zamanda kod kısmımızda sag taraftadır!
+Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!
+<p>
+<img align="left" width="400" height="250" src="http://4gp.me/bbtc/1546124885172.jpg" >
+ <img align="center" width="350" height="250" src="4GP.ME/bbtc/1546125760168.jpg">
 </p>
 
+<p>
+<img align="left" width="300" height="250" src="http://4gp.me/bbtc/1546124885172.jpg" >
 Phyton bilinmediği için çok sıkıntı yaşandı. Veritabanıba bağlama kısmı ve framework kurulma aşaması oldukça zorlamıştır!
