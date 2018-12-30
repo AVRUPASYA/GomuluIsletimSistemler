@@ -77,5 +77,9 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
 <p>
  <img align="center" width="800" height="400" src="http://4gp.me/bbtc/1546128735189.jpg">
 </p><br><br><br>
-<h2>Projenin genel tanımı ve amacı</h2><br>
-<br> 
+<h2>Proje Sonuçları/h2><br>
+<br> <br>
+ En çok web sitesi üzerinden Emulatöre erişim de sıkıntı yaşandı yapılan diğer işlemler başarıyla gerçekleştirildi.ilk önce web sitesi üzerinde güncelleme yapıldı daha sonra raspberri pi üzerinde yapıldı en son iki uygulama aynı projede birleştirildi! 
+ <br>
+<br> <br>
+ <img align="center" width="850" height="500" src="http://4gp.me/bbtc/1546129706795.jpg">
