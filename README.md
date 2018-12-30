@@ -72,5 +72,5 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
  <br>
 <p>
 <img align="left" width="400" height="300" src="http://4gp.me/bbtc/1546128296885.jpg" >
- <img align="center" width="400" height="300" src="hhttp://4gp.me/bbtc/1546128735189.jpg">
+ <img align="center" width="400" height="300" src="http://4gp.me/bbtc/1546128735189.jpg">
 </p>
