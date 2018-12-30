@@ -83,4 +83,4 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
  Akıllı Ev Sistemi, web teknoloji ev otomasyonu ile geliştirilip veritabanına aktarılmıştır.İlk önce web sitesi üzerinde güncelleme yapıldı daha sonra raspberri pi üzerinde yapıldı en son iki uygulama aynı projede birleştirildi!En çok web sitesi üzerinden Emulatöre erişim de sıkıntı yaşandı yapılan diğer işlemler başarıyla gerçekleştirildi. 
  <br>
 <br> <br>
- <img align="center" width="850" height="500" src="http://4gp.me/bbtc/1546129706795.jpg">
+ <img align="center" width="850" height="500" src="http://4gp.me/bbtc/1546185235742.jpg">
