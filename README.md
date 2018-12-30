@@ -65,3 +65,4 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  <br>
  <br>
 Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir! 
+ <img align="center" width="800" height="300" src="http://4gp.me/bbtc/1546128031122.jpg" >
