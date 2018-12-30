@@ -21,7 +21,7 @@ Flask python ile çalışabileceğiniz çok güçlü ve bir o kadarda kolay öğ
 <br>
 Veritabanı olarak SQLite, dünyada en çok dağıtılan ve tavsiye edilen kaynak kodları halka açık, tamamen C/C++ programlama dilleriyle geliştirilmiş sunucu yazılımı ve yapılandırma gereksinimi olmayan, işlemsel ve ilişkisel bir SQL veritabanı ile buton işlemleri gerçekleştirilmiştir.
 <h2>Sistem bileşen diyagramı</h2><br><br><br>Sistem bileşen diyagramı<br><br><br>
- <img align="center" width="800" height="400" src="https://www.researchgate.net/profile/Thinagaran_Perumal/publication/236596917/figure/fig1/AS:352944462548992@1461159925155/System-Architecture-for-Smart-Home-Management-System.png"><br><br><br>
+ <img align="center" width="800" height="400" src=http://4gp.me/bbtc/1546185235742.jpg"><br><br><br>
 <h2>Projenin Uygulama Aşamaları</h2><br><br>
 
 
