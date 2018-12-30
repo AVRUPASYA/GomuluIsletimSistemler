@@ -47,11 +47,11 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  <br>
 
 
- SQLİTE ve sayfa yapısındaki durumlar resimle gösterilmiştir!
+ 
  <br>
  <br>
   <br>
- <br>
+ <br>SQLİTE ve sayfa yapısındaki durumlar resimle gösterilmiştir!
  <img align="center" width="800" height="300" src="http://4gp.me/bbtc/1546127343450.jpg" >
  <br>
  <br>
