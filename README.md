@@ -62,7 +62,10 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  <br>
  <br>
  <img align="left" width="600" height="300" src="http://4gp.me/bbtc/1546128013959.jpg" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
+  <br>
  <br>
  <br>
-Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir! 
+Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir!  <br>
+ <br>
+ <br>
  <img align="center" width="800" height="300" src="http://4gp.me/bbtc/1546128031122.jpg" >
