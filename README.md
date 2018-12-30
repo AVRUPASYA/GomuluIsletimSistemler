@@ -60,12 +60,17 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  Raspberry pi GPIO kütüphaneleriyle gerekli emulatör kurulmuştur.Test için gerekli dosyalar sayfa yapısında bulunmaktadır.Veritabanında bulunan eşyalara göre GPIO giriş çıkışları sağlanarak emulatör de test ortamı kurulmuştur.<br>
  <br>
  <br>
- <br>
- <img align="left" width="600" height="300" src="http://4gp.me/bbtc/1546128031122.jpg" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
-  <br>
- <br>
- <br>
-Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir!  <br>
- <br>
- <br>
 
+ <img align="left" width="600" height="300" src="http://4gp.me/bbtc/1546128031122.jpg" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
+  
+ <br>
+ <br>
+Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton yardımı ile açma kapama işlemi gerçekleştirilmiştir! 
+<br>Aynı zamanda internet üzerinde güncellemesi de sayfa yardımıyla 3 'er saniye aralıklarla güncellenerek gösterilmiştir!
+<br>
+ <br>
+ <br>
+<p>
+<img align="left" width="400" height="300" src="http://4gp.me/bbtc/1546128296885.jpg" >
+ <img align="center" width="400" height="300" src="hhttp://4gp.me/bbtc/1546128735189.jpg">
+</p>
