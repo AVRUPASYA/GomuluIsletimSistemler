@@ -70,7 +70,7 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
  <br>
 <br>Aynı zamanda internet üzerinde güncellemesi de sayfa yardımıyla 3 'er saniye aralıklarla güncellenerek gösterilmiştir!
 <br>
- 
+ <br><br>
 <p>
- <img align="center" width="800" height="300" src="http://4gp.me/bbtc/1546128735189.jpg">
-</p>
+ <img align="center" width="800" height="400" src="http://4gp.me/bbtc/1546128735189.jpg">
+</p><br><br><br>
