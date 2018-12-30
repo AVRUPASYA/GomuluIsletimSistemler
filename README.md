@@ -41,11 +41,10 @@ Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin we
  <br>
 <br>
 <p>
-<img align="left" width="500" height="400" src="http://4gp.me/bbtc/1546126302788.jpg" >
+<img align="left" width="500" height="300" src="http://4gp.me/bbtc/1546126302788.jpg" >
 </p>
 <br>
- <br>
- <br>
+ 
 Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaseteki  ilgili yerler açık veya kapalı olarak değiştirilmiştir!
  <br>
  <br>
