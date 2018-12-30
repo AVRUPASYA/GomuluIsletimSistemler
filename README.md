@@ -45,7 +45,8 @@ Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin we
 </p>
 
  
-Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaseteki  ilgili yerler açık veya kapalı olarak değiştirilmiştir!
+Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.<br>
+Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaseteki  ilgili yerler açık veya kapalı olarak değiştirilmiştir!
  <br>
  <br>
  
