@@ -36,7 +36,7 @@ Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
 Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
 
 <img align="left" width="450" height="400" src="http://4gp.me/bbtc/1546125697669.jpg" >
- <img align="center" width="400" height="400" src="http://4gp.me/bbtc/1546125760168.jpg">
+ <img align="center" width="400" height="400" src="https://user-images.githubusercontent.com/43750173/55800505-8e680f00-5adc-11e9-9c7f-ddf6f3c311a1.PNG">
 
 <br>
 <br>
