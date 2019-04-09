@@ -29,7 +29,7 @@ Sistemde butonlara basarak veritabanda bulunan sistemdeki yapılar açma-kapanma
 Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SAYFALARIMIZ yüklenicektir.
 <br><br>
 <br><p>
-<img align="left" width="300" height="250" src="http://4gp.me/bbtc/1546124885172.jpg" >
+<img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55800543-a0e24880-5adc-11e9-8073-993f2bc681e5.PNG" >
  <img align="center" width="500" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
 </p>
 Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
