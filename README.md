@@ -57,7 +57,7 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  <br>SQLİTE ve sayfa yapısındaki durumlar resimle gösterilmiştir!<br>
   <br><br>
   
- <img align="center" width="800" height="300" src="http://4gp.me/bbtc/1546127343450.jpg" >
+ <img align="center" width="800" height="300" src="https://user-images.githubusercontent.com/43750173/55800526-958f1d00-5adc-11e9-94bc-b74b2f31847b.PNG" >
  <br>
  <br>
  Raspberry pi GPIO kütüphaneleriyle gerekli emulatör kurulmuştur.Test için gerekli dosyalar sayfa yapısında bulunmaktadır.Veritabanında bulunan eşyalara göre GPIO giriş çıkışları sağlanarak emulatör de test ortamı kurulmuştur.<br>
