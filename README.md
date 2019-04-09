@@ -57,14 +57,14 @@ Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaset
  <br>SQLİTE ve sayfa yapısındaki durumlar resimle gösterilmiştir!<br>
   <br><br>
   
- <img align="center" width="800" height="300" src="https://user-images.githubusercontent.com/43750173/55800526-958f1d00-5adc-11e9-94bc-b74b2f31847b.PNG" >
+ <img align="center" width="800" height="300" src="https://user-images.githubusercontent.com/43750173/55800509-8f993c00-5adc-11e9-9f96-647fd7892045.PNG" >
  <br>
  <br>
  Raspberry pi GPIO kütüphaneleriyle gerekli emulatör kurulmuştur.Test için gerekli dosyalar sayfa yapısında bulunmaktadır.Veritabanında bulunan eşyalara göre GPIO giriş çıkışları sağlanarak emulatör de test ortamı kurulmuştur.<br>
  <br>
  <br>
 
- <img align="left" width="600" height="300" src="https://user-images.githubusercontent.com/43750173/55800514-92942c80-5adc-11e9-8e44-f672f1a94ff6.PNG" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
+ <img align="left" width="600" height="300" src="https://user-images.githubusercontent.com/43750173/55800526-958f1d00-5adc-11e9-94bc-b74b2f31847b.PNG" > Gerekli pin tanımlamaları her bir led ev eşyası düşünülerek ikişer butonla açma kapama işlemi yapılmış ve veri tabanına aktarılmıştır.<br>
   
  <br>
  <br>
@@ -75,7 +75,7 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
 <br>
  <br><br>
 <p>
- <img align="center" width="800" height="400" src="http://4gp.me/bbtc/1546128735189.jpg">
+ <img align="center" width="800" height="400" src="https://user-images.githubusercontent.com/43750173/55800514-92942c80-5adc-11e9-8e44-f672f1a94ff6.PNG">
 </p><br><br><br>
 <h2>Proje Sonuçları</h2> 
  <br>
@@ -83,4 +83,4 @@ Butonlar yardımı ile kapatıp açma usulü led ile düşünülerek iki buton y
  Akıllı Ev Sistemi, web teknoloji ev otomasyonu ile geliştirilip veritabanına aktarılmıştır.İlk önce web sitesi üzerinde güncelleme yapıldı daha sonra raspberri pi üzerinde yapıldı en son iki uygulama aynı projede birleştirildi!En çok web sitesi üzerinden Emulatöre erişim de sıkıntı yaşandı yapılan diğer işlemler başarıyla gerçekleştirildi. 
  <br>
 <br> <br>
- <img align="center" width="850" height="500" src="http://4gp.me/bbtc/1546185235742.jpg">
+ <img align="center" width="850" height="500" src="https://user-images.githubusercontent.com/43750173/55800513-91fb9600-5adc-11e9-9059-5aab7bd5721f.PNG">
