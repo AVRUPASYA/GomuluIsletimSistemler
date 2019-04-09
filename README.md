@@ -30,7 +30,7 @@ Sistemin anasayfa yapısı aşağıdaki gibidir EKLE ve GÖSTER MENÜLERİYLE SA
 <br><br>
 <br><p>
 <img align="left" width="300" height="250" src="https://user-images.githubusercontent.com/43750173/55800543-a0e24880-5adc-11e9-8073-993f2bc681e5.PNG" >
- <img align="center" width="500" height="250" src="http://m.YollaYap.com/bbtc/1546125121206.jpg">
+ <img align="center" width="500" height="250" src="https://user-images.githubusercontent.com/43750173/55800526-958f1d00-5adc-11e9-94bc-b74b2f31847b.PNG">
 </p>
 Aynı zamanda kod kısmımızda sag taraftadır!<br><br>
 Gerekli Ev Aletlerinin Gösterilmesi için gerekli sayfa yapısı listeleme durumu aşağıdaki geniş bir ayayüz ekranıyla database bağlantısı sağlanılarak sağlanmıstır.Kod kısmı ve sayfa kodları aşağıdadır!<br><br>
