@@ -15,7 +15,7 @@ Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyel
 Flask python ile çalışabileceğiniz çok güçlü ve bir o kadarda kolay öğrenilen minimal bir framework. O kadar kolayki python bilginiz olmasa bile bu framework ile çalışırken öğrenebilirsiniz. Flask küçük çaplı projeler için size hem hız kazandırır hemde gereksiz konfigrasyonlar ile boğuşmanızı önler.
 &nbsp;&nbsp;&nbsp;&nbsp;<p>
 <img align="left" width="350" height="300" src="https://user-images.githubusercontent.com/43750173/55800520-932cc300-5adc-11e9-8da8-9a1a9b3d65ba.jpg" >
- <img align="center" width="350" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiLNB1g8cK7wS1fI0b9t-yr8qQxpaMreoPzbA_vuzVL6koQfEjkg">
+ <img align="center" width="350" height="300" src="https://user-images.githubusercontent.com/43750173/55800521-93c55980-5adc-11e9-8b33-5581dd944f13.jpg">
 </p>
 <br>
 <br>
