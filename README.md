@@ -7,7 +7,7 @@ Akıllı Ev Sistemi, nano teknoloji ev otomasyonu ile geliştirilen bir kontrol 
  <br>
  <br>
 <p>
-<img align="center" width="500" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfuUW1DTZkOg6C6WhlTGwkIKYflG3_NSda12g1s51z8pETksD2">
+<img align="center" width="500" height="300" src="https://user-images.githubusercontent.com/43750173/55800518-92942c80-5adc-11e9-8779-9eccba123938.jpg">
 </p>
 
 <h2>Kullanılan teknolojiler</h2><br>
