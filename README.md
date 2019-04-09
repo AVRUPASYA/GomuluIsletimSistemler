@@ -44,7 +44,7 @@ Her bir butona basılıp Flask'ta route edilme kısmında yani ev aletlerinin we
  <br>
 <br>
 
-<img align="left" width="500" height="300" src="http://4gp.me/bbtc/1546126302788.jpg" ><br> <br>Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.<br><br>
+<img align="left" width="500" height="300" src="https://user-images.githubusercontent.com/43750173/55800510-9031d280-5adc-11e9-8bef-d6f38e31d98a.PNG" ><br> <br>Butonlardan gelen bilgiler flaskaap.py dosyasında route edilir ilgli link'den database güncellenir.<br><br>
 Database bağlantısı SQLİTE veritabana bağlantısı kullanılarak  databaseteki  ilgili yerler açık veya kapalı olarak değiştirilmiştir!
  <br>
  <br>
